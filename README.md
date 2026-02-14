@@ -34,7 +34,8 @@ To dive deeper into the methodology, exploratory data analysis, and business con
 ## 🎥 Watch the Demo
 See the Intelligent Support Router in action! Click the thumbnail below to watch a quick demonstration of the chatbot handling different customer priorities:
 
-[![Watch the Demo Video](https://youtu.be/TWV79WouL6o)
+[![Watch the Demo Video](https://img.youtube.com/vi/TWV79WouL6o/maxresdefault.jpg)](https://youtu.be/TWV79WouL6o)
+
 
 
 
