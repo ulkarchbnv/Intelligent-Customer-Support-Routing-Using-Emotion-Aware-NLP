@@ -26,3 +26,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+## 📊 Read the Full Data Report
+To dive deeper into the methodology, exploratory data analysis, and business conclusions, please view the full report here: 
+👉 **[Data Report.pdf](Data%20Report.pdf)**
+
