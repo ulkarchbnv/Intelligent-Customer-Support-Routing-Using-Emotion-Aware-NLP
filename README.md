@@ -16,7 +16,6 @@ By combining a trained Machine Learning model (`SGDClassifier` + `TF-IDF`) with 
 ### Prerequisites
 Make sure you have **Python 3.8 or higher** installed on your computer.
 
-### Step 1: Clone the Repository
 Open your terminal or command prompt and run:
 ```bash
 git clone [https://github.com/YOUR_USERNAME/Intelligent-Customer-Support-Routing-Using-Emotion-Aware-NLP.git](https://github.com/ulkarchbnv/Intelligent-Customer-Support-Routing-Using-Emotion-Aware-NLP.git)
@@ -24,4 +23,5 @@ cd Intelligent-Customer-Support-Routing-Using-Emotion-Aware-NLP
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
 streamlit run app.py
