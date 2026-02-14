@@ -31,6 +31,11 @@ streamlit run app.py
 To dive deeper into the methodology, exploratory data analysis, and business conclusions, please view the full report here: 
 👉 **[Data Report.pdf](https://github.com/ulkarchbnv/Intelligent-Customer-Support-Routing-Using-Emotion-Aware-NLP/blob/main/Data%20Report.pdf)**
 
+## 🎥 Watch the Demo
+See the Intelligent Support Router in action! Click the thumbnail below to watch a quick demonstration of the chatbot handling different customer priorities:
+
+[![Watch the Demo Video](https://youtu.be/TWV79WouL6o)
+
 
 
 
